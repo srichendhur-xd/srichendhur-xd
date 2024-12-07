@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @srichendhur-xd  
+- 👀 I’m interested in software development, machine learning, and problem-solving.  
+- 🌱 I’m currently learning Data Structures and Algorithms (DSA) to improve my coding skills and diving deeper into advanced ML concepts.  
+- 💞️ I’m looking to collaborate on innovative tech projects, open-source contributions, and hackathons.  
+- 📫 How to reach me: srichendhur345@gmail.com  
+- 🛠️ Technologies I work with: Python, C++, HTML, CSS, JavaScript, TensorFlow, and more.  
+- 🌟 Projects: I’ve worked on building ML models and creative web development.   
+- 📖 Hobbies: Coding, photography, graphic design, and exploring new tech trends.  
+- ⚡ Fun fact: When I’m not coding, I’m either behind the lens capturing moments or designing for fun!  
+- 🌍 Location: Tamil Nadu, India  
+- 🔗 LinkedIn: www.linkedin.com/in/srichendhur 
+
